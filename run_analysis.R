@@ -1,3 +1,5 @@
+alldata2 <- run_analysis()
+
 library(dplyr)
 
 # load the feature names
